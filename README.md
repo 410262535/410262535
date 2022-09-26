@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+my name is ruby
+- Likes to play volleyball and draw
+- learing code
+
